@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="167.69781mm"
+   height="169.08981mm"
+   viewBox="0 0 167.69781 169.08981"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="HalcyonNull.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0396254"
+     inkscape:cx="64.927232"
+     inkscape:cy="330.40747"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.614485,-55.047611)">
+    <path
+       id="path1"
+       style="fill-opacity:1;stroke-width:0.312695"
+       d="m 104.46339,74.490913 a 64.565696,65.10151 0 0 0 -64.565666,65.101597 64.565696,65.10151 0 0 0 11.11076,36.3567 L 140.93128,85.8865 A 64.565696,65.10151 0 0 0 104.46339,74.490913 Z m 50.77166,24.914821 -90.884183,91.024436 a 64.565696,65.10151 0 0 0 40.112523,14.26395 64.565696,65.10151 0 0 0 64.56567,-65.10161 64.565696,65.10151 0 0 0 -13.79401,-40.186776 z" />
+  </g>
+</svg>
